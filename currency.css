@@ -1,0 +1,12 @@
+body{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    background-color: #aebb2c;
+}
+
+div{
+    text-align: center;
+    padding-top: 7pc;
+
+}
